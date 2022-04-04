@@ -139,10 +139,9 @@
       "drupal/core": "-p2"
     }
   },
-    "patches": {
-      "drupal/core": {
-        "1356276 - Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/2021-11-18/1356276-675.patch"
-      }
+  "patches": {
+    "drupal/core": {
+      "1356276 - Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/2021-11-18/1356276-675.patch"
     }
   }
 }
