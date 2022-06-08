@@ -24,6 +24,7 @@
     "cweagans/composer-patches": "^1.7.0",
     "drupal/core-composer-scaffold": "^9.0",
     "drupal/core-recommended": "^9.0@stable",
+    "drupal/duplicate_role": "^1.2",
     "drupal/guardr_core": "^2.0",
     "drush/drush": "^10.0",
     "mediacurrent/mis_profile": "^2.0",
@@ -33,8 +34,8 @@
     "mediacurrent/rain_features": "^3.0@beta",
     "mediacurrent/rain_theme": "^4.0@beta",
     "oomphinc/composer-installers-extender": "^2.0",
-    "webflo/drupal-finder": "^1.0.0",
-    "pantheon-systems/drupal-integrations": "^9"
+    "pantheon-systems/drupal-integrations": "^9",
+    "webflo/drupal-finder": "^1.0.0"
   },
   "require-dev": {
     "drupal/core-dev": "^9.0",
